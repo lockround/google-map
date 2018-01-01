@@ -1,9 +1,9 @@
-## JavaScript Native Fetch API
+# JavaScript Native Fetch API
 
-# Usage
+## Usage
 ```
 npm install gulp-cli -g
 npm install
+npm run build
 ```
 
-`npm run build`
