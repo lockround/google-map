@@ -7,3 +7,7 @@ npm install
 npm run build
 ```
 
+## Update API KEY
+```
+replace 'APIKEY' with your google map api
+```
