@@ -11,6 +11,11 @@ gulp.task('minify-js', function () {
     .pipe(gulp.dest('dest'));
 });
 
+gulp.task('assets', function(){
+	gulp.src('searchicon.png') // path to your files
+    .pipe(gulp.dest('dest'));
+})
+
 //CSS Task
 // task
 gulp.task('minify-css', function () {
@@ -26,4 +31,4 @@ gulp.task('minify-html', function () {
     .pipe(gulp.dest('dest'));
 });
 
-gulp.task('default', [ 'minify-html', 'minify-js', 'minify-css' ]);
+gulp.task('default', [ 'minify-html', 'minify-js', 'minify-css', 'assets' ]);

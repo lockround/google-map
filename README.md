@@ -14,7 +14,7 @@ http-server -p 1234
 
 ```
 
-Now visit http://localhost:1234
+Now visit http://localhost:1234/map.html
 
 ## Update API KEY
 ```
