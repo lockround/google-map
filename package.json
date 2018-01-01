@@ -1,13 +1,13 @@
 {
-  "name": "ajax-wid-php",
+  "name": "map",
   "version": "1.0.0",
-  "description": "",
+  "description": "SPA for testing google map with native fetch api.",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build":"gulp"
   },
-  "keywords": [],
-  "author": "Shubham Tiwari (http://shubhamtiwari.online/)",
+  "keywords": ["google-map", "lat-lng"],
+  "author": "Shubham Tiwari (https://lockround.github.io/)",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
