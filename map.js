@@ -1,6 +1,6 @@
 'use strict'
 
-var apiKey = 'AIzaSyBs_M0n7mAmFkecJKEnCqcyKnfnfvzzgu4';
+var apiKey = 'APIKEY';
 var api = 'https://maps.googleapis.com/maps/api/geocode/json';
 
 var box = document.getElementById('zipcode');
