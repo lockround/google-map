@@ -1,0 +1,36 @@
+body{
+	font-family: Roboto;
+	background: #BA5370;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F4E2D8, #BA5370);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F4E2D8, #BA5370); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+p{
+	font-size: 2em;
+	font-weight: bold;
+	text-shadow: 2px 2px 5px grey;
+}
+
+input[type=text] {
+    box-sizing: border-box;
+    border: 2px solid #bbb;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+span {
+	line-height: 2em;
+	font-size: 2em;
+	text-shadow: 2px 2px 5px grey;
+}
+
+.wrapper {
+	width: 500px;
+	height: 500px;
+	padding: 1em;
+	margin: 1em auto;
+    }
