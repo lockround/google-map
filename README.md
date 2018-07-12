@@ -1,5 +1,7 @@
 # JavaScript Native Fetch API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lockround/google-map.svg)](https://greenkeeper.io/)
+
 ## Usage
 ```
 npm install gulp-cli -g
